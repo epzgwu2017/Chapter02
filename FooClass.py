@@ -32,3 +32,5 @@ def addMe2Me(self, x):
     return(x + x)
 
 foo1 = FooClass()
+
+# Test again
