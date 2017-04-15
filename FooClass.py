@@ -34,3 +34,4 @@ def addMe2Me(self, x):
 foo1 = FooClass()
 
 # Test again
+#test
